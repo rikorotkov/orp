@@ -1,0 +1,11 @@
+{
+  "orp_activation_delay_seconds": 900,
+  "newbie_protection_days": 3,
+  "tribe_damage_multiplier_to_structures": 0.1,
+  "tribe_damage_multiplier_to_turrets": 0.1,
+  "tribe_damage_multiplier_to_dinos": 0.25,
+  "tribe_defense_multiplier_structures": 0.25,
+  "tribe_defense_multiplier_turrets": 0.25,
+  "tribe_defense_multiplier_dinos": 0.5,
+  "announce_state_changes": true
+}
